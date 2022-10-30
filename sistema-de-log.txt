@@ -1,2 +1,3 @@
 crie seu e-mail
 insira uma senha
+insira um nickname
